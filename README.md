@@ -1,6 +1,7 @@
 # ArduSonar
 
 A small project that simulates the operation of a sonar made with Arduino and Android. An ultrasonic sensor captures the distance of the objects in front of it, while being moved by a servo. The data is send via Bluetooth to an Android device where the data is displayed.
+
 ![](demo.gif)
 
 
